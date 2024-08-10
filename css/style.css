@@ -1,14 +1,14 @@
 body
 {
-    background-color: #EAF6F6;
     margin: 5% 15% 5% 15%;
+    background-color: #EAF6F6;
+    border-radius: 50px;
 }
 .html{
     background-image: -webkit-linear-gradient(65deg, #c7b3eb 50%, #E4E9FD 50%);
 }
 .bodyDiv{
     padding: 10px 50px 10px 50px;
-    border-radius: 50px;
 }
 
 hr
